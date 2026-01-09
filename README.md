@@ -97,13 +97,22 @@ cpp_modules_05_09/
 - Itérateurs
 - Algorithmes STL
 - Foncteurs et lambdas
+- Implémentation de containers personnalisés
+
+**Exercices :**
+- `ex00` : Easy find - Algorithme de recherche avec templates
+- `ex01` : Span - Container personnalisé avec itérateurs
+- `ex02` : Mutated abomination - Stack avec itérateurs et algorithmes
 
 **Ce que j'ai appris :**
 - Utilisation des containers de la STL
-- Différents types d'itérateurs
+- Différents types d'itérateurs (input, output, forward, bidirectional, random access)
 - Algorithmes génériques (find, sort, transform, etc.)
 - Foncteurs et fonctions lambda
 - Programmation fonctionnelle en C++
+- Création de containers personnalisés avec itérateurs
+- Utilisation d'algorithmes STL avec containers personnalisés
+- Gestion de la complexité algorithmique
 
 ## Module 09 - STL
 
