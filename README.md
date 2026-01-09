@@ -121,13 +121,22 @@ cpp_modules_05_09/
 - Containers avancés
 - Algorithmes complexes
 - Allocators
+- Bitcoin Exchange (projet complexe)
+
+**Exercices :**
+- `ex00` : Bitcoin Exchange - Système d'échange Bitcoin avec parsing de fichiers CSV
+- Application complète utilisant la STL de manière intensive
 
 **Ce que j'ai appris :**
 - Maîtrise complète de la STL
-- Choix du bon container selon le besoin
-- Utilisation avancée des algorithmes
+- Choix du bon container selon le besoin (map pour recherche rapide, vector pour accès séquentiel)
+- Utilisation avancée des algorithmes STL
 - Performance et complexité des opérations STL
-- Allocators personnalisés
+- Parsing de fichiers avec la STL
+- Gestion de données financières avec structures de données appropriées
+- Manipulation de dates et valeurs décimales
+- Gestion d'erreurs avec exceptions dans un contexte réel
+- Architecture d'une application complète utilisant la STL
 
 ## Compilation
 
