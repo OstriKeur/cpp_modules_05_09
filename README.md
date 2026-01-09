@@ -125,7 +125,6 @@ cpp_modules_05_09/
 
 **Exercices :**
 - `ex00` : Bitcoin Exchange - Système d'échange Bitcoin avec parsing de fichiers CSV
-- Application complète utilisant la STL de manière intensive
 
 **Ce que j'ai appris :**
 - Maîtrise complète de la STL
@@ -152,23 +151,12 @@ make
 
 ## Ce que j'ai appris globalement
 
-- **Gestion d'erreurs** : Exceptions vs codes de retour
-- **Type safety** : Casts C++ pour conversions sûres
-- **Programmation générique** : Templates pour code réutilisable
-- **STL** : Maîtrise complète de la bibliothèque standard
-- **Performance** : Comprendre la complexité et choisir les bons outils
-- **Best practices** : Utilisation moderne du C++
-
-## Progression
-
-Ces modules représentent une progression vers le C++ moderne :
-1. **Module 05** : Gestion d'erreurs avec exceptions
-2. **Module 06** : Sécurité des types avec casts
-3. **Module 07** : Programmation générique avec templates
-4. **Module 08** : Containers et algorithmes STL
-5. **Module 09** : Maîtrise complète de la STL
-
-Chaque module construit sur les précédents pour créer une compréhension complète du C++ moderne.
+- Gestion d'erreurs : Exceptions vs codes de retour
+- Type safety : Casts C++ pour conversions sûres
+- Programmation générique : Templates pour code réutilisable
+- STL : Maîtrise complète de la bibliothèque standard
+- Performance : Comprendre la complexité et choisir les bons outils
+- Best practices : Utilisation moderne du C++
 
 ---
 
