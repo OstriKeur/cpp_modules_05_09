@@ -55,6 +55,7 @@ cpp_modules_05_09/
 **Exercices :**
 - `ex00` : Scalar converter - Conversion de types avec casts
 - `ex01` : Serialization - Sérialisation avec casts et pointeurs
+- `ex02` : Identify real type - Identification du type réel avec dynamic_cast
 
 **Ce que j'ai appris :**
 - Utilisation des casts C++ au lieu des casts C
