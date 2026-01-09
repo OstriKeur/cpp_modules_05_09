@@ -50,13 +50,20 @@ cpp_modules_05_09/
 - Casts C++ (`static_cast`, `dynamic_cast`, `const_cast`, `reinterpret_cast`)
 - Type safety
 - Conversions de types
+- Base class casting
+
+**Exercices :**
+- `ex00` : Scalar converter - Conversion de types avec casts
+- `ex01` : Serialization - Sérialisation avec casts et pointeurs
 
 **Ce que j'ai appris :**
 - Utilisation des casts C++ au lieu des casts C
 - `static_cast` pour conversions explicites sûres
-- `dynamic_cast` pour conversions polymorphiques
+- `dynamic_cast` pour conversions polymorphiques (retourne nullptr si échec)
 - `const_cast` pour modifier la constance
-- `reinterpret_cast` pour conversions de bas niveau (à éviter)
+- `reinterpret_cast` pour conversions de bas niveau (à éviter sauf cas très spécifiques)
+- Conversion entre types de base et dérivés
+- Sérialisation de données avec casts
 
 ## Module 07 - C++ Templates
 
@@ -65,6 +72,12 @@ cpp_modules_05_09/
 - Templates de classes
 - Spécialisation de templates
 - Paramètres de template non-types
+- Template metaprogramming
+
+**Exercices :**
+- `ex00` : A few functions - Templates de fonctions
+- `ex01` : Iter - Templates avec itérateurs
+- `ex02` : Array - Template de classe Array
 
 **Ce que j'ai appris :**
 - Programmation générique avec templates
@@ -72,6 +85,9 @@ cpp_modules_05_09/
 - Spécialisation de templates pour cas particuliers
 - Paramètres de template (types et valeurs)
 - Compile-time polymorphism
+- Templates avec itérateurs
+- Création de containers génériques
+- Gestion de la taille à la compilation avec templates
 
 ## Module 08 - Templated containers, iterators, algorithms
 
