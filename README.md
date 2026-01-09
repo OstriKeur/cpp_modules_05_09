@@ -26,13 +26,23 @@ cpp_modules_05_09/
 - Try-catch blocks
 - Gestion d'erreurs
 - Classes d'exception personnalisées
+- Classes abstraites avec exceptions
+
+**Exercices :**
+- `ex00` : Mommy, when I grow up, I want to be a bureaucrat! - Classe Bureaucrat avec exceptions
+- `ex01` : Form up, maggots! - Form avec validation et exceptions
+- `ex02` : No, you need form 28B, not 28C... - Form abstraite avec différents types de formulaires
+- `ex03` : At least this beats coffee-making - Intern qui crée des formulaires dynamiquement
 
 **Ce que j'ai appris :**
 - Gestion des exceptions avec `try`, `catch`, `throw`
-- Création de classes d'exception personnalisées
-- Propagation des exceptions
-- Gestion propre des erreurs en C++
+- Création de classes d'exception personnalisées (héritant de `std::exception`)
+- Propagation des exceptions et gestion de la stack unwinding
+- Gestion propre des erreurs en C++ avec exceptions
 - Différence entre exceptions et codes de retour
+- Utilisation de `what()` pour les messages d'erreur
+- Classes abstraites avec méthodes virtuelles pures
+- Factory pattern avec Intern
 
 ## Module 06 - C++ Casts
 
